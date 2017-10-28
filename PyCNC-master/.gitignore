@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+.idea
+pycnc.tar.bz2
+build
+*.egg-info/
+dist/
+.DS_Store
