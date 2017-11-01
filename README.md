@@ -1,4 +1,4 @@
-# PyCNC-with-WEB
+# PyCNC-Web
 PyCNC with Web interface
 Original version by Nikolay-Kha/PyCNC
 
@@ -8,8 +8,7 @@ In order to be used as a Laser Cutter/Engraver the code will support a new axis 
 Required:
   Install WebIOPi follow instructions http://webiopi.trouch.com/INSTALL.html
 
-Configure the WebIOPi server /etc/webiopi/config
-  # correct to any other folder where you have installed it
+Configure the WebIOPi server /etc/webiopi/config, correct the folder to where you have installed PyCNC Web
   myscript = /home/pi/Desktop/PyCNC/PyCNC-master/cnc/script.py  
   doc-root = /home/pi/Desktop/PyCNC/PyCNC-master/htdocs     
 
