@@ -26,4 +26,4 @@ Note:
   sys.path.append('/home/pi/Desktop/PyCNC/PyCNC-master/cnc/hal_raspberry')
 
 
-<img src="https://github.com/eirasys/PyCNC-with-WEB/blob/master/PyCNC%20with%20Web%20Interface.png?raw=true">
+<img src="https://github.com/eirasys/PyCNC-with-WEB/blob/master/PyCNC-Web_02.png?raw=true">
